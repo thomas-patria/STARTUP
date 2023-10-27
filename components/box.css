@@ -1,0 +1,33 @@
+.price-container {
+    display: flex;
+    justify-content: space-between;
+}   
+ 
+.price-box {
+    flex: 1;
+    margin: 10px;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin: 30px; 
+    padding: 20px; 
+    border: 1px solid #ccc;
+    padding: 20px;
+    flex: 1;
+    margin: 10px;
+}
+
+.centre {
+    text-align: center;
+}
+
+.price-box .btn-blue-box{
+    flex: 1;
+    margin: 10px;
+    border-radius: 10px;
+    margin: 0px;
+    padding: 15px; 
+    border: 1px solid #ccc;
+    flex: 1;
+    align-items: center;
+    text-align: center;
+}

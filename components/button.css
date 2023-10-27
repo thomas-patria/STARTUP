@@ -1,0 +1,16 @@
+.btn-blue {
+	background-color: #091540;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+}
+
+.btn-blue-box {
+	background-color: #091540;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	align-items: center;
+}

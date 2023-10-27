@@ -1,0 +1,20 @@
+.banner {
+	background-image: url(../img/echequier.jpg);
+	color: white;
+	padding: 300px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1  {
+	font-size: 50px;
+	text-align: left;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	margin-bottom: 40px;
+	text-align: left;
+	color: white;
+}
